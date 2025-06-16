@@ -4,3 +4,4 @@ radio-core
 numpy
 scipy
 sounddevice
+elevate
